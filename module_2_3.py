@@ -5,6 +5,6 @@ while a < len(my_list):
         break
     elif my_list[a] > 0:
         print(my_list[a])
-        a += 1
+    a += 1
 
 
